@@ -82,6 +82,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 ## Selfhosting
  - [jetstream](https://github.com/bluesky-social/jetstream) - A simplified JSON event stream for AT Proto
  - [PDS](https://github.com/bluesky-social/pds) - Container image and documentation to selfhost your own Personal Data Server
+ - [PDS Open Web Service](https://app.osaas.io/dashboard/service/bluesky-social-pds) - Launch your own Personal Data Server with a few clicks of a button. 
 
 ## Viewers
  - [atproto-browser](https://atproto-browser.vercel.app) - Browse AT URIs
